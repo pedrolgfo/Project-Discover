@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-
+![Cover]![Cover](https://github.com/pedrolgfo/Project-Discover/assets/166795592/6dbd19d2-380a-4b6e-afc6-26f82179dc92)
 <p align="center">
   <img alt="projeto DevLinks" src="(https://github.com/pedrolgfo/Project-Discover/assets/166795592/6dbd19d2-380a-4b6e-afc6-26f82179dc92)" width="100%">
 </p>
