@@ -13,13 +13,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="![Cover](https://github.com/pedrolgfo/Project-Discover/assets/166795592/4df2b137-aa12-4f95-b13d-4f3095a2e92b)">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="![Cover](https://github.com/pedrolgfo/Project-Discover/assets/166795592/4df2b137-aa12-4f95-b13d-4f3095a2e92b)" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
