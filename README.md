@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-![Cover]![Cover](https://github.com/pedrolgfo/Project-Discover/assets/166795592/6dbd19d2-380a-4b6e-afc6-26f82179dc92)
+![Cover](https://github.com/pedrolgfo/Project-Discover/assets/166795592/6dbd19d2-380a-4b6e-afc6-26f82179dc92)
 
 
 ## 🚀 Tecnologias
